@@ -1,1 +1,1 @@
-# gid-repo
+# git-repo
